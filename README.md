@@ -1,7 +1,35 @@
 <html>
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.6.1 -->
 <title>Karims</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Karims" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://sabyasac.github.io/Karims/" />
+<meta property="og:url" content="https://sabyasac.github.io/Karims/" />
+<meta property="og:site_name" content="Karims" />
+<script type="application/ld+json">
+{"@type":"WebSite","headline":"Karims","url":"https://sabyasac.github.io/Karims/","name":"Karims","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/Karims/assets/css/style.css?v=2d6445ad421c0451fb22a29e6fd1e30939651671">
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://sabyasac.github.io/Karims/">Karims</a></h1>
+      
+
+      <html>
+<title>Karims</title>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
 <style>
 body, html {
@@ -116,8 +144,8 @@ body, html {
     
   </div>
 </div>
-</body>
-</html>
+&lt;/body&gt;
+&lt;/html&gt;
 <!-- Contact/Area Container -->
 <div class="w3-container" id="where" style="padding-bottom:32px;">
   <div class="w3-content" style="max-width:700px">
@@ -129,3 +157,13 @@ body, html {
       Send your responses <a href="https://forms.gle/1kMhg7TFfXXP7ret8">here!</a>
 <!-- End page content -->
 </div>
+</div></div></body></html>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+    
+  </body>
+</html>
