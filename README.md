@@ -46,7 +46,7 @@ body, html {
     <span class="w3-tag">Open from 8 am to 11 pm </span>
   </div>
   <div class="w3-display-middle w3-center">
-    <span class="w3-text-white" style="font-size:90px">Kazeems</span>
+    <span class="w3-text-white" style="font-size:90px">Karim's</span>
   </div>
   <div class="w3-display-bottomright w3-center w3-padding-large">
     <span class="w3-text-grey"></span>
