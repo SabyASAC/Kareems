@@ -116,7 +116,8 @@ body, html {
     
   </div>
 </div>
-
+</body>
+</html>
 <!-- Contact/Area Container -->
 <div class="w3-container" id="where" style="padding-bottom:32px;">
   <div class="w3-content" style="max-width:700px">
